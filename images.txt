@@ -1,8 +1,9 @@
 nginx
 #支持私库
-bitnami/postgresql:15.3.0-debian-11-r7
-bitnami/redis:7.0.11-debian-11-r12
-semitechnologies/weaviate:1.19.1
+rancher/mirrored-coredns-coredns:1.10.1
+rancher/local-path-provisioner:v0.0.28
+rancher/mirrored-metrics-server:v0.7.0
+
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
