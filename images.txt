@@ -1,9 +1,4 @@
-nginx
-#支持私库
-rancher/mirrored-coredns-coredns:1.10.1
-rancher/local-path-provisioner:v0.0.28
-rancher/mirrored-metrics-server:v0.7.0
-rancher/mirrored-pause:3.6
+bitnami/phpmyadmin:5.2.1-debian-12-r37
 
 
 #支持指定架构
