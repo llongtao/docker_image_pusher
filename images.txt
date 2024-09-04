@@ -1,8 +1,5 @@
 # registry.cn-shenzhen.aliyuncs.com/longtao/
-langgenius/dify-api:0.6.16
-langgenius/dify-sandbox:0.2.1
-langgenius/dify-web:0.6.16
-semitechnologies/weaviate:1.19.1
+redis:4.0.1
 
 
 #支持指定架构
