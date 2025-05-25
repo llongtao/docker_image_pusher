@@ -1,6 +1,7 @@
 # registry.cn-shenzhen.aliyuncs.com/longtao/
 
-rancher/mirrored-metrics-server:v0.7.2
+rancher/local-path-provisioner:v0.0.31
+rancher/mirrored-coredns-coredns:1.12.1
 
 
 
