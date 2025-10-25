@@ -1,6 +1,7 @@
 # registry.cn-shenzhen.aliyuncs.com/longtao/
 
-rancher/mirrored-pause:3.6
+#####rancher/mirrored-pause:3.6
+xpzouying/xiaohongshu-mcp:latest
 
 
 
