@@ -2,7 +2,7 @@
 
 #####rancher/mirrored-pause:3.6
 xpzouying/xiaohongshu-mcp:latest
-
+n8nio/n8n
 
 
 
