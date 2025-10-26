@@ -2,7 +2,7 @@
 
 #####rancher/mirrored-pause:3.6
 
-pgvector/pgvector:pg17
+pgvector/pgvector:pg18
 
 
 
