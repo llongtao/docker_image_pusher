@@ -1,8 +1,7 @@
 # registry.cn-shenzhen.aliyuncs.com/longtao/
 
 #####rancher/mirrored-pause:3.6
-xpzouying/xiaohongshu-mcp:latest
-n8nio/n8n
+lobehub/lobe-chat-database:latest
 
 
 
