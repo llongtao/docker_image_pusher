@@ -2,7 +2,7 @@
 
 #####rancher/mirrored-pause:3.6
 
-lobehub/lobe-chat-database:latest
+pgvector/pgvector:pg17
 
 
 
