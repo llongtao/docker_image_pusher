@@ -2,7 +2,10 @@
 
 #####rancher/mirrored-pause:3.6
 
-busybox:latest
+node:18-alpine
+
+python:3.11-slim
+
 
 
 
