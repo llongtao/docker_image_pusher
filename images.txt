@@ -2,10 +2,11 @@
 
 #####rancher/mirrored-pause:3.6
 
-node:18-alpine
 
-python:3.11-slim
 
+docker.io/istio/install-cni:1.28.0-distroless
+docker.io/istio/ztunnel:1.28.0-distroless
+docker.io/istio/ztunnel:1.28.0-distroless
 
 
 
