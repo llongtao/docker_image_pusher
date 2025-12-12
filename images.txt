@@ -6,7 +6,7 @@
 
 
 
-freqtradeorg/freqtrade:stable
+jgraph/drawio:latest
 
 
 
