@@ -6,7 +6,7 @@
 
 
 
-jgraph/drawio:latest
+calciumion/new-api:latest
 
 
 
