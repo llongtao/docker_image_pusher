@@ -5,8 +5,7 @@
 
 
 
-
-huobao/huobao-drama:latest
+lbjlaq/antigravity-manager:latest
 
 
 
