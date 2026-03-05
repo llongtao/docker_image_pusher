@@ -5,7 +5,7 @@
 
 
 
-lbjlaq/antigravity-manager:latest
+eceasy/cli-proxy-api:latest
 
 
 
