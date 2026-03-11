@@ -11,3 +11,4 @@ eceasy/cli-proxy-api:v6.8.51
 
 #支持指定架构
 #--platform=linux/arm64 redis:4.0.1
+eceasy/cli-proxy-api:v6.8.50
