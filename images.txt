@@ -5,7 +5,7 @@
 
 
 
-eceasy/cli-proxy-api:v6.8.51
+eceasy/cli-proxy-api:v6.9.4
 
 weishaw/sub2api:latest
 
