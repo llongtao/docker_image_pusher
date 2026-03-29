@@ -7,7 +7,7 @@
 
 eceasy/cli-proxy-api:v6.9.4
 
-weishaw/sub2api:latest
+
 
 touwaeriol/sub2apipay:latest
 
