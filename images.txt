@@ -5,11 +5,8 @@
 
 
 
-eceasy/cli-proxy-api:v6.9.4
 
-
-
-touwaeriol/sub2apipay:v1.10.11
+library/alpine:3.20
 
 
 
