@@ -5,7 +5,7 @@
 
 
 
-ghcr.io/resinat/resin:latest
+resinat/resin:latest
 
 
 
