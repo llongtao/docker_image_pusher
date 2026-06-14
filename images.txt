@@ -5,7 +5,7 @@
 
 
 
-ghcr.io/remsky/kokoro-fastapi-cpu
+ghcr.io/remsky/kokoro-fastapi-cpu:latest
 
 
 
