@@ -5,7 +5,7 @@
 
 
 
-ghcr.io/remsky/kokoro-fastapi-cpu:latest
+python:3.11-slim
 
 
 
