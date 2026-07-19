@@ -5,8 +5,8 @@
 
 
 
-nginxinc/nginx-unprivileged:1.27-alpine
-node:22-alpine
+--platform=linux/arm64 nginxinc/nginx-unprivileged:1.27-alpine
+--platform=linux/arm64 node:22-alpine
 
 
 
